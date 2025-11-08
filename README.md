@@ -1,10 +1,10 @@
-Phone Price Prediction
+##Phone Price Prediction
 
 This project focuses on building a machine learning model to predict smartphone prices based on various technical specifications.
 The workflow includes data cleaning, missing value imputation, model training, and performance evaluation to identify the best-performing model.
 
 
-Project Overview
+##Project Overview
 In this project:
 
 Cleaned and preprocessed a Kaggle dataset containing phone specifications and prices
@@ -20,7 +20,7 @@ Compared models based on accuracy, precision, recall, F1 score, and R² score
 Selected the best-performing model for final deployment
 
 
-Technologies and Tools
+##Technologies and Tools
 
 Python
 
@@ -33,7 +33,7 @@ Jupyter Notebook – for analysis and development
 etc
 
 
-Evaluation Metrics
+##Evaluation Metrics
 Metric	Description
 Accuracy / R² Score	Measures how well the model fits the data
 MAE (Mean Absolute Error)	Average of absolute prediction errors
