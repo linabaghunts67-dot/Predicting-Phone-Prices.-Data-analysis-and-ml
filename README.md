@@ -35,8 +35,13 @@ etc
 
 ##Evaluation Metrics
 Metric	Description
+
 Accuracy / R² Score	Measures how well the model fits the data
+
 MAE (Mean Absolute Error)	Average of absolute prediction errors
+
 RMSE (Root Mean Squared Error)	Penalizes larger errors
-etc
+
 F1 Score	Harmonic mean of precision and recall (for classification tasks)
+
+etc
